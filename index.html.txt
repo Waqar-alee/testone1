@@ -1,9 +1,0 @@
-<DOCTYPE html>
-<html>
-<head>
-<title>My file</title>
-</head>
-<body>
-<h1>This is Red truck<h1>
-</body>
-</html>
